@@ -1,6 +1,6 @@
 'use strict';
 
-var sass = require('sass'),
+var sass = require('node-sass'),
     util = require('util'),
     fs = require('fs'),
     url = require('url'),
